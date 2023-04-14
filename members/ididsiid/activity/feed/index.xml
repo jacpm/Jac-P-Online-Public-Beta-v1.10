@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac-p-online | Unknown Member | Activity</title>
+	<link>http://localhost/jac-p-online/members/ididsiid/activity/</link>
+	<atom:link href="http://localhost/jac-p-online/members/ididsiid/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for Unknown Member.</description>
+	<lastBuildDate>Fri, 14 Apr 2023 15:57:04 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.1.2</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+								<item>
+				<guid isPermaLink="false">1ab6838234970329a87ff4c40b386b22</guid>
+				<title>aa became a registered member</title>
+				<link>http://localhost/jac-p-online/news-feed/p/11/</link>
+				<pubDate>Thu, 13 Apr 2023 05:54:06 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">1ab6838234970329a87ff4c40b386b22</guid>
+				<title>ididsiid became a registered member</title>
+				<link>http://localhost/jac-p-online/news-feed/p/10/</link>
+				<pubDate>Thu, 13 Apr 2023 05:54:06 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+		
